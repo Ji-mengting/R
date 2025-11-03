@@ -1,6 +1,6 @@
 # R
 R language code for multivariate statistical analysis and visualization
-1.CCA.R
+#1.CCA.R
 The codes about canonical correspondence analysis (CCA) for exploring key explanatory factors of nosZI composition.
 2.Mantel.R
 The codes about Mantel tests for exploring key explanatory factors of nosZI composition.
